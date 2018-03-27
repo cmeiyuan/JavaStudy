@@ -18,7 +18,7 @@ public class Work1glz {
             byte[] adc = new byte[1024];
             int count = picture.read(adc);
             byte[] a = new byte[count];
-            for (int i = 0; i < adc.length; i++) {
+            for (int i = 0; i < a.length; i++) {
                 a[i] = adc[i];
             }
             String b = new String(a);
