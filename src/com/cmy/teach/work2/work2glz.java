@@ -21,6 +21,7 @@ public class work2glz {
             }
             System.out.println("");
             System.out.println("大于等于90的数有"+ f +"个");
+            
 
     }
 

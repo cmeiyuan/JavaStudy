@@ -26,6 +26,7 @@ public class work2glz2 {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
+
         }
     }
 }
